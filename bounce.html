@@ -1,0 +1,31 @@
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<script>
+ $(document).ready(function(){
+     
+  $("div#a").animate({height:'13px',width:'13px'},500);	
+  $("div#a").delay().animate({height:'10px',width:'10px'},100);	
+  
+  $("div#s").delay(300).animate({height:'13px',width:'13px'},500);	
+  $("div#s").animate({height:'10px',width:'10px'},100);	
+
+  $("div#d").delay(500).animate({height:'13px',width:'13px'},500);
+  $("div#d").animate({height:'10px',width:'10px'},100);
+  
+  $("div#f").delay(700).animate({height:'13px',width:'13px'},500);	  
+  $("div#f").animate({height:'10px',width:'10px'},100);	 
+      	 	 
+ });
+       
+</script>
+ 
+<div id="a"style="border-radius:50%;position:absolute;top:440px;left:650px;background:#462573">
+	
+</div><div id="s" style="border-radius:50%;position:absolute;top:350px;left:520px;background:#462573">
+	
+</div><div id="d" style="border-radius:50%;position:absolute;top:270px;left:550px;background:#462573">
+	
+</div><div id="f" style="border-radius:50%;position:absolute;top:380px;left:680px;background:#462573">
+	
+</div>

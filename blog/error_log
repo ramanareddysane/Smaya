@@ -1,0 +1,119 @@
+[03-Jul-2015 12:51:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/getpost.php on line 4
+[03-Jul-2015 12:51:26 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/blog1/getpost.php on line 10
+[03-Jul-2015 12:57:58 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/fullpost.php on line 44
+[03-Jul-2015 12:57:58 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/blog1/fullpost.php on line 49
+[03-Jul-2015 12:58:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/fullpost.php on line 44
+[03-Jul-2015 12:58:10 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/blog1/fullpost.php on line 49
+[03-Jul-2015 13:04:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/smayathq/public_html/blog1/fullpost.php on line 43
+[04-Jul-2015 04:08:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/post-into-blog.php on line 2
+[07-Jul-2015 10:05:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/post-into-blog.php on line 2
+[07-Jul-2015 10:07:50 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/blog1/post-into-blog.php on line 2
+[07-Jul-2015 10:07:50 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/blog1/post-into-blog.php on line 46
+[07-Jul-2015 18:41:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:42:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:42:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:43:33 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:45:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:45:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:45:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:46:03 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 18:46:06 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 19:05:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$phead' (T_VARIABLE) in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:05:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '$phead' (T_VARIABLE) in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:06:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$phead' (T_VARIABLE) in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:06:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '$phead' (T_VARIABLE) in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:07:55 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog1/fullpost.php on line 70
+[07-Jul-2015 19:07:55 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog1/fullpost.php on line 73
+[07-Jul-2015 19:07:55 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:07:55 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog1/fullpost.php on line 76
+[07-Jul-2015 19:07:59 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog1/fullpost.php on line 70
+[07-Jul-2015 19:07:59 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog1/fullpost.php on line 73
+[07-Jul-2015 19:07:59 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog1/fullpost.php on line 74
+[07-Jul-2015 19:07:59 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog1/fullpost.php on line 76
+[07-Jul-2015 19:10:24 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 19:11:21 Etc/GMT] PHP Parse error:  syntax error, unexpected 'p_id' (T_STRING), expecting ',' or ';' in /home/smayathq/public_html/blog1/getpost.php on line 25
+[07-Jul-2015 21:55:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$cont' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 45
+[07-Jul-2015 21:55:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$cont' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 45
+[07-Jul-2015 21:59:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 46
+[07-Jul-2015 21:59:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 46
+[07-Jul-2015 21:59:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 46
+[07-Jul-2015 21:59:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/smayathq/public_html/blog1/post-into-blog.php on line 46
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined index: id in /home/smayathq/public_html/blog/fullpost.php on line 3
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[13-Jul-2015 12:47:23 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 01:46:16 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 01:46:17 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:18:41 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:18:52 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:19:07 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:19:59 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:46:20 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:46:23 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:46:39 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[16-Jul-2015 06:51:50 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 24
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: smp in /home/smayathq/public_html/blog/fullpost.php on line 29
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: pid in /home/smayathq/public_html/blog/fullpost.php on line 66
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: phead in /home/smayathq/public_html/blog/fullpost.php on line 69
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: time in /home/smayathq/public_html/blog/fullpost.php on line 70
+[27-Jul-2015 17:23:39 Etc/GMT] PHP Notice:  Undefined variable: cont in /home/smayathq/public_html/blog/fullpost.php on line 72

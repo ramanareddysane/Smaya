@@ -1,0 +1,4 @@
+[01-Aug-2015 05:16:55 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smayathq/public_html/mobile/peoplemail.php on line 9
+[01-Aug-2015 05:16:55 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/mobile/peoplemail.php on line 15
+[01-Aug-2015 05:16:55 Etc/GMT] PHP Notice:  Undefined variable: id in /home/smayathq/public_html/mobile/peoplemail.php on line 37
+[01-Aug-2015 05:16:55 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/smayathq/public_html/mobile/peoplemail.php on line 37

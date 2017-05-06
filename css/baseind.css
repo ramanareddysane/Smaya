@@ -1,0 +1,193 @@
+ body::-webkit-scrollbar{
+     width:9px;
+	 background-color:#737425;    
+ } 
+body::-webkit-scrollbar-track:hover{
+     border:1px gray solid;
+    border-radius:10px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color:#737429;
+  border-radius:10px;
+}
+  body::-webkit-scrollbar-thumb:hover{
+     background-color:#801;
+     border:1px solid #333333;
+}
+ 
+ body {
+	 padding:30px;
+	 margin:10px;	 
+     }
+	 html { overflow-y: scroll; }
+ 
+  .b{
+   background-color:#963;
+   box-shadow:0 0 30px black;
+   }
+ 
+ #vl1 {margin-left:55px;}
+#vl2{ margin-left:30px;}
+#vl3{ margin-left:20px;}
+#vl4{ margin-left:10px;}
+#vl3{ margin-left:20px;}
+
+ 
+ #login {
+	  position:	absolute;
+	  top:50px;
+	  left:1270px;
+	  height:60px;
+	  width:60px;
+	  border-radius:50px;
+	  color:white;	
+      }
+ 
+   #aapi {
+      height:140px;
+      width: 140px;
+	  position:	absolute;
+	  top:180px;
+	  left:740px;
+	  border-radius:50%;	  
+   }
+ #nimi {        
+	  height:170px;
+      width: 170px;
+	  position:absolute;
+	  top:250px;
+	  left:500px;
+
+	  border-radius:50%;	  
+	}
+  
+  #why {
+      height:190px;
+      width: 190px;
+	  position:absolute;
+	  top:550px;
+	  left:350px;
+
+	  border-radius:50%;	  
+   }
+ #connect {
+      height:190px;
+      width: 190px;
+	  position:absolute;
+	  top:440px;
+	  left:600px;
+
+	  border-radius:50%;	  
+   }
+  #video {
+      height:250px;
+      width: 250px;
+	  position:absolute;
+	  top:320px;
+	  left:840px;
+
+	  border-radius:50%;	
+     	  
+   } 
+   
+ #believe{
+      height:130px;
+      width: 130px;
+	  position:absolute;
+	  top:660px;
+	  left:590px;
+
+	  border-radius:50%;	  
+  } 
+  
+ #team {
+     height:150px;
+      width: 150px;
+	  position:absolute;
+	  top:690px;
+	  left:170px;
+
+	  border-radius:50%;	  
+ } 
+ 
+ #help {
+     height:160px;
+      width: 160px;
+	  position:absolute;
+	  top:70px;
+	  left:950px;
+
+	  border-radius:50%;	  
+ } 
+
+ #names {
+      height:140px;
+      width: 140px;
+	  position:absolute;
+	  top:60px;
+	  left:550px;
+
+	  border-radius:50%;	  
+ } 
+ 
+  #contacts {
+      height:200px;
+      width: 200px;
+	  position:absolute;
+	  top:660px;
+	  left:820px;
+
+	  border-radius:50%;	  
+ } 
+ 
+  
+   #lang {
+      height:110px;
+      width: 110px;
+	  position:absolute;
+	  top:250px;
+	  left:1132px;
+	  border-radius:50%;	  
+} 
+.l{
+      height:80px;
+      width: 80px;
+	  position:absolute;
+	  top:260px;
+	  left:1132px;
+	  background-color:#963 ;
+	  border-radius:50%;	  
+} 
+ 
+ 
+ 
+   #journey {
+      height:150px;
+      width: 150px;
+	  position:absolute;
+	  top:600px;
+	  left:1134px;
+	  border-radius:50%;	
+	} 
+
+    #chat {
+      height:130px;
+      width: 130px;
+	  position:fixed;
+	  bottom:0px;
+	  right:0px;
+	  border-radius:50%  0px 0px;	  
+ } 	
+ 
+  #blog {
+      height:120px;
+      width: 120px;
+	  position:absolute;
+	  top:400px;
+	  left:1334px;
+	  border-radius:50%;	
+ } 	
+	  
+	  
+	  
+	  

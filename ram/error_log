@@ -1,0 +1,37 @@
+[09-Jun-2015 06:37:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'smayathq_smaya'@'localhost' (using password: YES) in /home/smayathq/public_html/ram/test.php on line 7
+[09-Jun-2015 06:39:55 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'smayathq_smaya'@'localhost' to database 'test' in /home/smayathq/public_html/ram/test.php on line 7
+[09-Jun-2015 06:47:51 Etc/GMT] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/smayathq/public_html/ram/test.php on line 22
+[09-Jun-2015 06:49:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'ramana' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 14
+[09-Jun-2015 06:50:01 Etc/GMT] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/smayathq/public_html/ram/test.php on line 23
+[09-Jun-2015 06:50:55 Etc/GMT] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/smayathq/public_html/ram/test.php on line 23
+[28-Jun-2015 07:37:43 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'sdfead' (1) in /home/smayathq/public_html/ram/test.php on line 7
+[28-Jun-2015 07:38:43 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'lodlc' (1) in /home/smayathq/public_html/ram/test.php on line 7
+[28-Jun-2015 07:41:07 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'locahost' (1) in /home/smayathq/public_html/ram/test.php on line 6
+[25-Jul-2015 11:20:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hmn_email' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 11:21:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hmn_email' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 11:21:59 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hmn_email' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 11:22:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hmn_email' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 11:22:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hmn_email' (T_STRING) in /home/smayathq/public_html/ram/test.php on line 13
+[25-Jul-2015 11:39:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 11:39:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/smayathq/public_html/ram/test.php on line 12
+[25-Jul-2015 14:39:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smayathq/public_html/ram/test.php on line 14
+[25-Jul-2015 14:41:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smayathq/public_html/ram/test.php on line 14
+[26-Jul-2015 08:36:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/smayathq/public_html/ram/test.php on line 14
+[29-Jul-2015 11:53:11 Etc/GMT] PHP Notice:  Undefined variable: headers in /home/smayathq/public_html/ram/mail.php on line 11
+[29-Jul-2015 11:53:47 Etc/GMT] PHP Notice:  Undefined variable: headers in /home/smayathq/public_html/ram/mail.php on line 11
+[29-Jul-2015 11:54:13 Etc/GMT] PHP Notice:  Undefined variable: headers in /home/smayathq/public_html/ram/mail.php on line 11
+[29-Jul-2015 11:57:20 Etc/GMT] PHP Notice:  Undefined variable: headers in /home/smayathq/public_html/ram/mail.php on line 13
+[29-Jul-2015 12:01:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/smayathq/public_html/ram/mail.php on line 9
+[29-Jul-2015 12:01:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/smayathq/public_html/ram/mail.php on line 9
+[30-Jul-2015 05:20:53 Etc/GMT] PHP Notice:  Undefined index: name in /home/smayathq/public_html/ram/mail.php on line 2
+[30-Jul-2015 05:20:53 Etc/GMT] PHP Notice:  Undefined index: email in /home/smayathq/public_html/ram/mail.php on line 3
+[30-Jul-2015 05:20:53 Etc/GMT] PHP Notice:  Undefined index: idea in /home/smayathq/public_html/ram/mail.php on line 4
+[30-Jul-2015 05:20:53 Etc/GMT] PHP Notice:  Undefined index: customers in /home/smayathq/public_html/ram/mail.php on line 5
+[30-Jul-2015 05:20:53 Etc/GMT] PHP Notice:  Undefined index: bm in /home/smayathq/public_html/ram/mail.php on line 6
+[30-Jul-2015 05:24:28 Etc/GMT] PHP Notice:  Undefined variable: ide in /home/smayathq/public_html/ram/mail.php on line 13
+[30-Jul-2015 05:24:31 Etc/GMT] PHP Notice:  Undefined variable: ide in /home/smayathq/public_html/ram/mail.php on line 13
+[30-Jul-2015 05:25:07 Etc/GMT] PHP Notice:  Undefined variable: ide in /home/smayathq/public_html/ram/mail.php on line 13
+[30-Jul-2015 05:25:25 Etc/GMT] PHP Notice:  Undefined variable: ide in /home/smayathq/public_html/ram/mail.php on line 13
+[30-Jul-2015 09:17:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/smayathq/public_html/ram/mail.php on line 37
+[30-Jul-2015 09:18:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/smayathq/public_html/ram/mail.php on line 37
+[30-Jul-2015 09:18:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/smayathq/public_html/ram/mail.php on line 37

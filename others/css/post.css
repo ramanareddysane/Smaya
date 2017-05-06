@@ -1,0 +1,119 @@
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+} 
+.group:after {
+  clear: both;
+}
+.group {
+    zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+} 
+p {
+	text-indent:35px;
+}
+
+ p,span,div:not(.lost){ 
+     color:white;
+  }
+  li   {
+	list-style:none;
+  }
+  .total_post{
+	display:flex;
+	flex-flw:row wrap;
+	position:relative;
+	border-bottom:2px solid silver;	
+  }
+  .info {
+	flex:1
+	line-height:2em;
+	font-size:70%;
+	display:flex;
+	align-items:center;
+	flex-flow:column nowrap;
+	padding-top:20px;
+	max-width:100px;
+	min-width:70px;
+	margin-top:2%
+  }
+  .post_comment {
+	padding-left:5px;
+	flex:4;
+	height:auto;
+	padding-top:2%;
+  }
+  
+  .post_text_container {
+	min-height:110px;
+	height:150px;
+	overflow:hidden;
+  }
+  .showmore{
+	margin-left:20px;
+	display:none;
+	cursor:pointer;
+  }
+  ol.comments-list {
+	padding:15px;
+	list-style:none;
+	margin:0px;
+	margin-bottom:5px;
+  }
+  .comment_info {
+	display:flex;	
+  }	
+  .comment_info  > img {
+	width:50;
+	height:50;
+	border-radius:50%
+  }
+  .comment_info div {
+  align-self:center;
+  }
+  .comment {
+	padding:10px;
+	display:flex;
+	flex-flow:row wrap;
+	align-items:center;
+	justify-content:space-between;
+  }
+   .cmg {
+	width:50px;height:50px;
+	border-radius:50%;
+  }
+ 
+  .comment textarea[class='cmnt'] {
+	min-width:150px;
+	color:white;
+	background:none;
+	outline:none;
+	resize:none;
+	margin-left:10px;
+			flex:3;
+  }
+ .comment  span {
+		margin:0 4px;	
+  }
+  .ram:before {
+	content:"red";
+  } 
+  .comment input[placeholder='name'] {
+		min-width:150px;
+		background:none;
+		outline:none;
+		margin-left:2px;
+		color:white;height:30px; 
+		flex:1.5
+  }
+  
+  .comment .cmntb {
+`	min-width:50px;
+	margin:0 10px;
+	outline:none;
+	background:none;
+	border-radius:5px;
+	align-self:center;
+	flex:1
+  }

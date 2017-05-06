@@ -1,0 +1,175 @@
+body::-webkit-scrollbar {
+    width: 7px;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid silver;
+}
+#total{
+	background: url("siclogo.png") no-repeat top left;
+    margin: auto;
+    width: 1300px;
+}
+
+#close {
+ cursor: pointer;
+ position:absolute;
+ right: 4px;
+ top: 3px;
+}
+#head{
+		background:  url('plate.png') no-repeat center;
+		text-align:-webkit-center;height:363px;
+		margin:auto;
+		margin-top:50px;
+	}
+	#mquote{
+		display:inline-block;
+		width: 616px;
+		font-size: 32px;
+		position: relative;
+		top: 34%;
+	}
+	.quote {
+		border-radius: 0px 10px 10px 53px;
+		margin-right: 1%;
+		margin-top: 3%;
+		width: 48%;
+		background:#f9f9f9;
+		box-shadow: -7px 0px 8px silver;
+		float: left;
+	`	border-radius: 18px;
+		font-size: 20px;
+		text-align: justify;
+}
+#apply {
+	clear:both;
+	text-align:center;
+	width: 75%;
+	margin: auto;
+}
+#apply>p{
+	font-size: 26px;
+	font-family: cursive;
+}
+#apply input{
+	font-size: 20px;
+}
+#background {
+	position: fixed;
+	left:0px;top:0px;
+	height: 100%;
+	width:100%;
+	background: black;
+	opacity: 0.6;
+}
+
+#form{
+	border-radius: 18px;
+	border:2px solid silver;
+	box-shadow: 0px 0px 20px white;
+	background-color: white;
+	top:10px;
+	margin:auto;
+	width: 1200px;
+	height: 600px;
+}
+
+#applybtn{
+    background-color: #886F4D;	
+    color: white;
+    border-radius: 11px;
+    font-size: 40px;
+    outline: none;
+}
+
+#headings{
+    text-align: center;
+   overflow: hidden; 
+}
+.head{
+	transition: all .3s ease-in-out;
+	float: left;
+	font-size:20px;   
+	width: 33%;
+	padding: 2%;
+    text-align: center;
+}
+.head>span{
+cursor:pointer;
+}
+#ideas{
+    color: saddlebrown;
+    border-bottom: 3px solid saddlebrown;
+}
+#people{  
+    opacity: 0.4;
+} 
+#qandf{
+  opacity: 0.4;
+}
+
+#ideaform, #peopleform{
+position:relative;
+text-align:justify;
+clear:both;
+width:100%;
+display: inline-block;
+}
+
+#feedbackform{
+position:relative;
+}
+.lable {
+	width: 48%;
+	margin-left: 14px;
+	position:absolute;
+}
+.lable span { font-size: 17px;}
+#what { top: 22px; }
+#who{ top: 267px;}
+#bmodel{
+	top: 22px;
+	left: 50%;
+}
+textarea{ resize:none;}
+#ideaextrainfo {
+	position:absolute;
+	top: 238px;left:51%;
+}
+.submit{
+	font-family:monospace;
+	min-width:150px;
+	border-radius: 13px;
+	outline: none;
+	transition: all .1s ease-in-out;
+	color:white;
+	background-color: rgb(75, 143, 79);
+	font-size: 35px;
+	box-shadow: 0px 0px 0px silver;
+	position: absolute;
+	left: 42%;
+	top: 428px;
+}
+#ideasubmit{
+
+}
+.submit:hover{ box-shadow:11px 12px 20px silver;}
+#work{ left: 50%;}
+#helpsmaya{ top: 155px;}
+#peopleextrainfo{ position:absolute;top:321px; left: 3%;}
+
+#qandfbox{
+	left:25%;
+	top: 97px;
+	font-size: 17px;
+}
+#qandfsubmit{
+    position: relative;
+    top: 42px;
+}
